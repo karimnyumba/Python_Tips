@@ -1,6 +1,6 @@
 # Python Tricks and Tips
 
-Welcome to the Python Tricks and Tips repository! This is a collection of useful code snippets, one-liners, cryptography 🔒🔑 and algorithms  that can help you write cleaner and more efficient Python code.
+Welcome to the Python Tricks and Tips repository! This is a collection of useful code snippets, one-liners, cryptography 🔒🔑 and algorithms that can help you write cleaner and more efficient Python code.
 
 ## Getting Started
 
@@ -17,4 +17,4 @@ We welcome your feedback on this repository. If you have any suggestions or comm
 ## License
 
 This repository is licensed under the MIT License. Please see the [LICENSE](/LICENSE) file for more details.
-
+Hhdhd
