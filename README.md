@@ -1,6 +1,6 @@
 # Python Tricks and Tips
 
-Welcome to the Python Tricks and Tips repository! This is a collection of useful code snippets, one-liners, cryptography 🔒🔑 and algorithms  that can help you write cleaner and more efficient Python code.
+Welcome to the Python Tricks and Tips repository! This is a collection of useful code snippets, one-liners, cryptography 🔒🔑 and algorithms that can help you write cleaner and more efficient Python code.
 
 ## Getting Started
 
