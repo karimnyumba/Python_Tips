@@ -10,9 +10,8 @@ This is a Python code example demonstrating audio signal generation using NumPy 
 ## Usage
 
 1. Install the required dependencies by running the following command:
-    ```
-    pip install numpy
-    ```
+
+    `pip install numpy`
 
 2. Clone or download this repository to your local machine.
 
