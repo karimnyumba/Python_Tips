@@ -28,6 +28,3 @@ When you write `word[::-1]`, Python creates a slice of the original string, star
 ## Conclusion
 
 Reversing a string in Python is easy and elegant with this simple slicing trick. You don't need to write loops or recursion, and you can do it in a single line of code. Use this trick to make your code more readable and efficient!
-
-
-
